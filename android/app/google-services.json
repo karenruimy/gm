@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958321128204",
+    "firebase_url": "https://chatapp-d2e0f.firebaseio.com",
+    "project_id": "chatapp-d2e0f",
+    "storage_bucket": "chatapp-d2e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958321128204:android:e52926ad2c2b3d350acf29",
+        "android_client_info": {
+          "package_name": "com.karenruimy.goddessmembership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958321128204-hg721g080039fiv2uhidl6togl10b00j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkT0fXHMJWOtCi6OV-JB7tN1PBqXU893g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958321128204-hg721g080039fiv2uhidl6togl10b00j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
